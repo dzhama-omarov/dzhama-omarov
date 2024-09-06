@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dzhama-omarov
 - 👀 I’m interested in programming, languages, mechanisms and electric circuits
 - 🌱 I’m currently learning python, german and french
-- 💞️ I’m looking to collaborate on any python projecct to get more knowledge and experience
+- 💞️ I’m looking to collaborate on any python project to get more knowledge and experience
 
 
 <!---
