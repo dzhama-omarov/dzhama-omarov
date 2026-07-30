@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @dzhama-omarov
-- 👀 I’m interested in programming, languages, mechanisms and electric circuits
-- 🌱 I’m currently learning python, german and french
-- 💞️ I’m looking to collaborate on any python project to get more knowledge and experience
+### Hi, I'm Dzhama 👋
+
+I'm building **Underground Rise**, a cooperative first-person criminal simulator game in Unity. Solo developer handling everything from architecture to 3D modeling.
+
+- 🎮 Currently building the core systems in **Unity 6 (URP)** and **C#** — modular car physics, NPC scheduling, SQLite-backed persistence
+- 🔧 Modeling and pipeline work in **Blender**, exporting to Unity
+- 🌱 Also learning **German** and **French**
+- 💞️ Open to collaborating on Unity/game dev
+- 👀 Interested in programming, systems design, mechanisms, and electric circuits
 
 
 <!---
